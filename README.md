@@ -4,10 +4,7 @@ Initializr theme for Wolf CMS
 About
 =====
 Initializr is Wolf CMS theme based on the Initializr HTML 5 template. It includes:
--HTML5 Boilerplate
--Bootstrap
--Modernizr
--jQuery
+HTML5 Boilerplate, Bootstrap, Modernizr, jQuery
 
 Installation
 ============
@@ -15,13 +12,13 @@ This assumes you have installed Wolf CMS.
 
 1. Download Initializr template form http://www.initializr.com/.
  Choose there Bootstrap and:
-	-Responsive Bootstrap,
-	-Modernizr,
-	-IE Classes,
-	-Chrome Frame,
-	-Favicon,
-	-plugins.js,
-	-Google Analytics - if you need it.
+   1.1 Responsive Bootstrap,
+   1.2 Modernizr,
+   1.3 IE Classes,
+   1.4 Chrome Frame,
+   1.5 Favicon,
+   1.6 plugins.js,
+   1.7 Google Analytics - if you need it.
 
 3. Unzipp Initializr archive into your new <your-site>/public/themes directory.
 
