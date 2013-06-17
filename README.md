@@ -10,8 +10,7 @@ Installation
 ============
 This assumes you have installed Wolf CMS.
 
-1. Download Initializr template form http://www.initializr.com/.
- Choose there Bootstrap and:
+1. Download Initializr template form http://www.initializr.com/. Choose there Bootstrap and:
    1.1 Responsive Bootstrap,
    1.2 Modernizr,
    1.3 IE Classes,
